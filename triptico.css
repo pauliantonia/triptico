@@ -1,0 +1,84 @@
+.caja-contenedora{
+  height: 800px;
+  width: 800px;
+}
+
+
+.titulo{
+  height: 45px;
+  width: 632px;
+  background-color: #FACC2E;
+  text-align: center;
+  border: 1px solid black;
+  position: absolute;
+  font-size:larger;
+  margin: 0px;
+}
+
+.antes{
+  height: 420px;
+  width: 140px;
+  border: 1px solid black;
+  position: absolute;
+  top: 54px;
+  padding: 20px;
+  /*font-size: medium;*/
+
+}
+
+.monopoly{
+  height: 380px;
+  width: 180px;
+  border: 1px solid black;
+  position: absolute;
+  left: 189px;
+  top: 54px;
+  /*font-size: medium;*/
+  padding: 45px;
+}
+
+.ahora{
+  height: 420px;
+  width: 140px;
+  border: 1px solid black;
+  position: absolute;
+  left: 460px;
+  top: 54px;
+  /*font-size: medium; no es necesario ponerle ya que medium es el tamaño por defecto*/
+  padding: 20px;
+}
+
+.info{
+  height: 35px;
+  width: 632px;
+  background-color: #FACC2E;
+  border: 1px solid black;
+  position: absolute;
+  top: 500px;
+  text-align: center;
+  font-weight: 800;
+}
+
+h2, h3 {
+  text-align: center;
+}
+.p {
+  text-align: justify;
+}
+
+.img1{
+  width: 145px;
+  height: 160px;
+  position: absolute;
+  border: 0px;
+}
+
+.img2{
+  width: 150px;
+  height: 160px;
+}
+
+.link {
+  color: #6A0888;
+  text-decoration: underline;
+}
